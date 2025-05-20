@@ -1,0 +1,5 @@
+Pizza_Category,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score
+Chicken,1,10815,195919.5,1,1,2,4
+Classic,1,14579,220053.1,1,4,4,9
+Supreme,1,11777,208197.0,1,3,3,7
+Veggie,1,11449,193690.45,1,2,1,4
